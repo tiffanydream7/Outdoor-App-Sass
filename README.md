@@ -1,1 +1,0 @@
-# Outdoor-App-Sass-Scss
